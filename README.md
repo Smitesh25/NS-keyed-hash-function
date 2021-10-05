@@ -1,7 +1,7 @@
 # NS-keyed-hash-function
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project:
 
 ```
 $ cd HMAC
